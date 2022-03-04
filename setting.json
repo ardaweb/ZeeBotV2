@@ -1,0 +1,14 @@
+{
+   "Miminnya" : " 𝘼𝙧𝙙𝙖 𝙎𝙖𝙝𝙖",
+   "BotName" : "ℛ𝒾𝓇𝒾𝓈 𝒢ℯ𝓂ℴ𝓎",   
+   "ownerNumber" : "6282363250061",
+   "fake" : "© ℛ𝒾𝓈𝓀𝒶 𝒢ℯ𝓂ℴ𝓎",
+   "autoWelcome": true,
+   "SesionName" : "WeaBot",
+   "gamewaktu" : 120,
+   "limitCount": 100,
+   "gcount": {
+	"premi": 35,
+	"useri": 15
+	}
+}
